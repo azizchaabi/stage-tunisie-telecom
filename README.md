@@ -1,1 +1,1 @@
-Project made using Laravel 
+Project made with Laravel and tailwindcss
